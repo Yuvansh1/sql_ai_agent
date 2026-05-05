@@ -101,4 +101,3 @@ sql-ai-agent/
 ## License
 
 MIT
-```
