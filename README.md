@@ -1,6 +1,6 @@
 # SQL AI Agent
 
-A natural language to SQL agent powered by Ollama — runs 100% locally, no API key, no cost.
+A natural language to SQL agent powered by Ollama: runs 100% locally, no API key, no cost.
 
 ## Features
 
